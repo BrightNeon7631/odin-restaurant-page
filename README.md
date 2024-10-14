@@ -1,6 +1,6 @@
 # Odin Project #10: Restaurant Page
 
-The goal of this project was to create a restaurant page using JavaScript and ES6 Modules to dynamically generate the contents of the site.
+The goal of this project was to create a restaurant page using JavaScript and ES6 Modules to dynamically generate the contents of the site. To reduce the amount of code I created functions responsible for creating and appending DOM elements.
 
 I started and finished this project in September 2022.
 
