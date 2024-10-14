@@ -1,6 +1,6 @@
 # Odin Project #10: Restaurant Page
 
-The goal of this project was to create a restaurant page using JavaScript and ES6 Modules to dynamically generate the contents of the site. To reduce the amount of code I created functions responsible for creating and appending DOM elements.
+The goal of this project was to create a restaurant page using JavaScript and ES6 Modules to dynamically generate the contents of the site.
 
 I started and finished this project in September 2022.
 
@@ -27,9 +27,7 @@ I started and finished this project in September 2022.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/odin-restaurant-page/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-odin-restaurant-page.pages.dev)
 
 ## Screenshots
 
@@ -58,7 +56,7 @@ I started and finished this project in September 2022.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/odin-restaurant-page.git
 
 # install project dependencies
 npm install
